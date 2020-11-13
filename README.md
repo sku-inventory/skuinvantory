@@ -1,0 +1,2 @@
+# skuinvantory
+proyecto formativo SKUinvantory
